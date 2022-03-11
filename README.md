@@ -15,5 +15,5 @@ I have studied two high professional formations about System administration and 
 
 ## Contact 📫 
 
-mail: contactaconkiko@gmail.com 
-instagram: lookslikekiko
+* mail: contactaconkiko@gmail.com 
+* instagram: lookslikekiko
