@@ -8,8 +8,10 @@ I have studied two high professional formations about System administration and 
 
 ## Skills 👀 
 
-* Some python code (Flask)
-* Skills about network technology, different services and protocols like SMTP, DHCP, DNS..
+* Some python code 
+* bash scripting
+* Skills about network technology, different services and protocols like SMTP, DHCP, DNS.
+* knowledge of network architecture
 
 ## Contact 📫 
 
