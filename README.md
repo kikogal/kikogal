@@ -4,7 +4,7 @@ My name is Kiko, I'm from Spain and currently I´m working as IT Operator in Pal
 
 ## Skills 👀 
 
-* Some python code 
+* python code
 * bash scripting
 * k8s skills
 * VMware virtualization
